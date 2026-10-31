@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![shironyanne](assets/01.gif)
 <!--
 **shironyanne/shironyanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
