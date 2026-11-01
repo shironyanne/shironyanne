@@ -10,7 +10,7 @@
 ### 🔭 What I'm Working On
 - **[Tao Pundit Ecosystem](https://taopundit.club)** — The core infrastructure for our community apps and Discord AI agents.
 - **[Daranukrom (ดารานุกรม)](https://daranukrom.taolab.app)** — An interactive sky map and astronomical encyclopedia. (Coming soon)
-- **[Tao Chum (เต่าจุ่ม)](https://taochum.taolab.app)** — A verifiable randomizer powered by Drand cryptography.
+- **[Tao Chum (เต่าจุ่ม)](https://taochum.taolab.app)** — A public verifiable randomizer powered by Drand and entropy sources.
 
 ---
 
