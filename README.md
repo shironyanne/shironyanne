@@ -3,7 +3,7 @@
 ![shironyanne](assets/01.gif)
 
 > **Full-stack Developer & Systems Builder** | Founder [@Tao Pundit Club](https://taopundit.club)  
-> Focused on Web Architecture, Intelligent Systems, and exploring Astroinformatics.
+> Focused on Software Architecture, Informatics, Intelligent Systems, and Astroinformatics.
 
 ---
 
@@ -21,6 +21,11 @@
 | **Backend & APIs** | Python (FastAPI), C# (.NET Core), Node.js |
 | **Data & Storage** | PostgreSQL, MySQL, SQLite, Redis |
 | **DevOps & Infra** | Docker, Nginx Proxy Manager, Cloudflare, Linux VPS |
+
+---
+
+### 📊 GitHub Activity
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=shironyanne&layout=compact&langs_count=8&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=shironyanne&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
